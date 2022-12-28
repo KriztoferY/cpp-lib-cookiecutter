@@ -1,0 +1,7 @@
+// clang-format off
+#define {{cookiecutter.project_name.capitalize().replace(' ', '').replace( \
+    '-', '_')}}_VERSION_MAJOR 0
+#define {{cookiecutter.project_name.capitalize().replace(' ', '').replace( \
+    '-', '_')}}_VERSION_MINOR 1
+#define {{cookiecutter.project_name.capitalize().replace(' ', '').replace( \
+    '-', '_')}}_VERSION_PATCH 0

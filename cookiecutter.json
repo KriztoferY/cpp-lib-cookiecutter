@@ -1,0 +1,19 @@
+{
+    "full_name": "KriztoferY",
+    "email": "KriztoferY@example.com",
+    "github_username": "KriztoferY",
+    "project_name": "Cpp Static Library",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_short_description": "A modern C++ static library.",
+    "version": "0.1.0",
+    "library_name": "",
+    "open_source_license": [
+        "MIT",
+        "BSD-2",
+        "BSD-3",
+        "GNU GPL v3.0",
+        "Apache Software License 2.0",
+        "ISC license",
+        "Not open source"
+    ]
+}
