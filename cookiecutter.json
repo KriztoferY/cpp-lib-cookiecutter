@@ -7,13 +7,5 @@
     "project_short_description": "A modern C++ static library.",
     "version": "0.1.0",
     "library_name": "WARNING-cannot-be-empty",
-    "open_source_license": [
-        "MIT",
-        "BSD-2",
-        "BSD-3",
-        "GNU GPL v3.0",
-        "Apache Software License 2.0",
-        "ISC license",
-        "Not open source"
-    ]
+    "copyright_year": "2023"
 }
