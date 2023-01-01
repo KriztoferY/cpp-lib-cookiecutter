@@ -9,12 +9,9 @@ using namespace std;
 // clang-format off
 void print_usage(const string& executable) {
     std::cout << executable << " Version " 
-              << {{cookiecutter.project_name.capitalize().replace(' ', '').replace( \
-    '-', '_')}}_VERSION_MAJOR << "."
-              << {{cookiecutter.project_name.capitalize().replace(' ', '').replace( \
-    '-', '_')}}_VERSION_MINOR << "." 
-              << {{cookiecutter.project_name.capitalize().replace(' ', '').replace( \
-    '-', '_')}}_VERSION_PATCH
+              << {{cookiecutter.project_name.capitalize().replace(' ', '').replace('-', '_')}}_VERSION_MAJOR << "."
+              << {{cookiecutter.project_name.capitalize().replace(' ', '').replace('-', '_')}}_VERSION_MINOR << "." 
+              << {{cookiecutter.project_name.capitalize().replace(' ', '').replace('-', '_')}}_VERSION_PATCH
               << std::endl;
     std::cout << "USAGE: " << executable << " <arg1>" << std::endl;
     exit(EXIT_FAILURE);
