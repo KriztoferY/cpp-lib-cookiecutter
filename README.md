@@ -41,7 +41,7 @@ By default, a <a href="https://choosealicense.com/licenses/bsd-3-clause/" target
 
 #### Build and test
 
-- g++ (version 5+) or equivalent compiler that supports C++17 and above
+- g++ (version 8+) or equivalent compiler that supports C++20 and above
 - CMake (version 3.15+)
 - Make (or equivalent build tool)
 - GoogleTest (to be installed as submodule of the project using git)
@@ -49,11 +49,12 @@ By default, a <a href="https://choosealicense.com/licenses/bsd-3-clause/" target
 
 #### Documentation site generation
 
-- Doxygen
+- Doxygen 1.9.2+
 - Python 3.7+
 - Sphinx
 - Furo
 - Breathe
+- LaTeX (optional; only if you need to generate documentation in LaTeX format)
 
 ## Getting Started
 
