@@ -91,4 +91,4 @@ This Cookiecutter template is licensed under the [BSD 3-Clause License](https://
 
 The Acknowledgement section in the bootstrapped project README file should be retained without modification throughout the lifetime of your project.
 
-Copyright &copy; 2022-2023 [KriztoferY](https://github.com/KriztoferY). All rights reserved.
+Copyright &copy; 2022 - 2023 [KriztoferY](https://github.com/KriztoferY). All rights reserved.
