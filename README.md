@@ -27,6 +27,7 @@ Here is the technology stack that the bootstrapped project employs to lay the gr
 ├── bin/                    # to be created in the first build
 ├── include/                # to be created in the first build
 ├── lib/                    # to be created in the first build
+├── .clang-format
 ├── ProjectConfig.h.in 
 ├── CMakeLists.txt
 ├── Doxyfile
