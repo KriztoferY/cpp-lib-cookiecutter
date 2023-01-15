@@ -1,6 +1,6 @@
 BSD 3-Clause License
 
-Copyright (c) 2022, {{cookiecutter.full_name}} <{{cookiecutter.email}}>
+Copyright (c) 2023, {{cookiecutter.full_name}} ({{cookiecutter.email}})
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
